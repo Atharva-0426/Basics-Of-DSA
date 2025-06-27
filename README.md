@@ -1,6 +1,6 @@
-# Basics-Of-DSA
+# Basics Of DSA
 
-Till now in this project , topics that are done are:
+This repository contains the topics that i covered till now including the resoruces that i have used.
 
 1)Basic Maths and Arrays:
 -Prefix sum, modulo, prime numbers, 
