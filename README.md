@@ -1,6 +1,6 @@
 # Basics Of DSA
 
-This repository contains the topics that i covered till now including the resoruces that i have used.
+This repository contains the topics that i covered till now and the contest programs that I did including the resoruces that I have used.
 
 1)Basic Maths and Arrays:
 -Prefix sum, modulo, prime numbers, 
